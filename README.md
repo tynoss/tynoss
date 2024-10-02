@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tynoss
-- 👀 I’m interested in software, architecture and music production.
-- 🌱 I’m currently learning rust
+- 👋 Hi, I’m Tyron.
+- 👀 I’m interested in programming and music production.
+- 🌱 Currently learning rust, sometimes gleam.
 - 📫 How to reach me (no official home yet)
 
 <!---
